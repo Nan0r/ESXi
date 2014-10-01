@@ -1,0 +1,1 @@
+esxcli software acceptance get
