@@ -1,0 +1,1 @@
+esxcli system version get
